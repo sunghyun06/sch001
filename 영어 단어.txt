@@ -1,0 +1,12 @@
+individual = 개인
+courage = 용기
+passion = 열정
+correlation = 상관관계
+investigate = 조사하다
+over time = 시간에 흐름에 따라
+observations = 관찰
+information = 정보
+collected = 수집
+imbalance = 불균형
+responsibly = 책임감있게
+conducting = 실행하다
