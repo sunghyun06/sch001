@@ -17,3 +17,4 @@ evident = 명백한
 commitment = 헌신
 quite literally = 그야 말로
 paying off = 성과를 내다
+stuffed = 박제된
